@@ -39,16 +39,10 @@ npm install
 
 Configure the target canvas element and drag coordinates in the script, then run it in your browser console or via a headless browser:
 
-```js
-// Example: drag from (100, 150) to (300, 200) on the canvas
-dragOnCanvas(canvas, { x: 100, y: 150 }, { x: 300, y: 200 });
+```run file
+solveCanvas.spec.ts
 ```
 
-Or run via Puppeteer:
-
-```bash
-node index.js
-```
 
 ## Configuration
 
