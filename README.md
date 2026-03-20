@@ -69,9 +69,6 @@ The bot dispatches a sequence of synthetic mouse events on the canvas element:
 
 This mimics a natural drag gesture as closely as possible within the browser event model.
 
-## License
-
-MIT
 
 ## Author
 
